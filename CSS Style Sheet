@@ -1,0 +1,39 @@
+body
+{
+}
+
+#navbar{
+    background-color: #333;
+    color: white;
+    list-style-type: none;
+    padding: 20px 0;
+    text-align: center;
+}
+
+#navbar li{
+    display: inline;
+    margin: 0 20px;
+}
+
+#navbar a{
+    color: white;
+    text-decoration: none;
+}
+
+#main-content{
+    margin: 10px;
+    color: #333;
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 2px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%
+}
